@@ -24,3 +24,5 @@ Hệ thống được thiết kế chia làm 2 phân hệ Master (PC) và Slave 
 | 4 | **Mạch công suất LED** | 8x MOSFET FR120N (Logic-level) |
 | 5 | **Mạch quản lý nguồn** | XL4015 DC-DC 5A (CC/CV) |
 | 6 | **Nguồn cấp** | Khối Pin Lithium 8.4V |
+<img width="742" height="415" alt="Screenshot 2026-05-07 151841" src="https://github.com/user-attachments/assets/689e5491-91c2-4282-a8e3-85b840a118f9" />
+
