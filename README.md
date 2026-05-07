@@ -1,5 +1,5 @@
 # Smart Adaptive Headlight System
-[Phiên bản Tiếng Việt](README_VI.md)
+[Phiên bản Tiếng Việt](README_vi.md)
 ## 📌 Overview
 
 This project is a prototype of an intelligent automotive headlight system developed through the integration of **Computer Vision (AI)** and **Embedded Systems**.
