@@ -81,8 +81,7 @@ The system is designed with two main subsystems:
 ---
 
 # 📷 Demo
-
-> Add project images, diagrams, or demo GIFs here.
+<img width="742" height="415" alt="Screenshot 2026-05-07 151841" src="https://github.com/user-attachments/assets/bee78408-7996-44e8-b677-8ac3aa828afd" />
 
 ```md
 <img width="742" height="415" alt="Screenshot 2026-05-07 151841" src="https://github.com/user-attachments/assets/c9ef4072-dc6f-49c3-8250-6eef8d0f34fd" />
