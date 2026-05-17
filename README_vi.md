@@ -1,4 +1,4 @@
-# 📌 Giới thiệu tổng quan (Overview)
+# 📌 Giới thiệu tổng quan 
 
 Dự án này là nguyên mẫu hệ thống đèn pha thông minh hoạt động dựa trên sự kết hợp giữa **Thị giác máy tính (Computer Vision/AI)** và **Hệ thống nhúng (Embedded System)**. 
 
